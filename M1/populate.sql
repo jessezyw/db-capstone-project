@@ -53,12 +53,12 @@ Insert query to populate "Delivery" table:
 */
 INSERT INTO Delivery (DeliveryID, Status, DeliveryDate, AddressID)
 VALUES 
-(1, 'takeout', '2023-5-19', 1),
-(2, 'dine-in', '2023-5-20', 2),
-(3, 'dine-in', '2023-5-20', 7),
-(4, 'dine-in', '2023-8-22', 5),
-(5, 'dine-in', '2023-8-22', 3),
-(6, 'dine-in', '2023-8-31', 6);
+(1, 'takeout', '2022-5-19', 1),
+(2, 'dine-in', '2022-5-20', 2),
+(3, 'dine-in', '2022-5-20', 7),
+(4, 'dine-in', '2022-8-22', 5),
+(5, 'dine-in', '2022-8-22', 3),
+(6, 'dine-in', '2022-8-31', 6);
 
 
 /*
